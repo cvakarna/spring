@@ -1,0 +1,8 @@
+com\biz\model\Fields.class
+com\biz\model\Table.class
+com\biz\TableData.class
+com\biz\HomeController.class
+com\biz\model\TableDetails.class
+com\biz\TableUtil.class
+com\biz\model\TableFieldsInfo.class
+com\biz\App.class
